@@ -1,0 +1,78 @@
+h1 {
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+}
+h2 {
+  font-weight: bold;
+  font-size: 23pt;
+  font-family: 'Cabin', sans-serif;
+}
+a {
+  text-decoration: none;
+}
+h6 {
+  font-family: 'Oswald', sans-serif;
+  color: black;
+  text-decoration: bold;
+  font-size: 12pt;
+  padding: 5pt;
+  line-height: 50px;
+}
+h5 {
+  color: red;
+  line-height: 30px;
+}
+li {
+  list-style-type: none;
+  display: inline;
+  font-size: 12px;
+  width: 100;
+  font-weight: bold;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 12pt;
+}
+body {
+  margin: 15pt;
+  padding: 5pt;
+}
+.article {
+  padding-top: 80pt;
+}
+.column {
+  float: left;
+  width: 33.33%;
+}
+.trending {
+  list-style-type: none;
+  display: inline;
+  font-size: 12px;
+  width: 100;
+  font-weight: bold;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 12pt;
+  color: red
+}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+a:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:visited {
+  color: black;
+}
+.sections {
+  color: red;
+}
+h4 {
+  line-height: 50px;
+  font-size: 14pt;
+}
+h2 {
+  line-height: 38px;
+}
