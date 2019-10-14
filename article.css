@@ -1,0 +1,62 @@
+p {
+  text-align: justify;
+  margin: 20pt;
+  padding: 8pt;
+  font-size: 15pt;
+}
+li {
+  list-style-type: none;
+  display: inline;
+  font-size: 12px;
+  width: 100;
+  font-weight: bold;
+  color: black;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 12pt;
+}
+h6 {
+  text-align: center;
+  color: red;
+}
+body {
+  background-color: #F6F7F8;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+div.clothes {
+  font-size: 8pt;
+}
+div.credit {
+  text-align: left;
+}
+h5 {
+  text-align: center;
+}
+h2 {
+  font-size: 10pt;
+  color: grey;
+  text-align: center;
+}
+h1 {
+ font-weight: bold;
+ text-align: center;
+ font-family: 'Cabin', sans-serif;
+ font-size: 36pt;
+}
+
+a:link {
+  text-decoration: none;
+    color:red;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:visited {
+  color: red;
+}
