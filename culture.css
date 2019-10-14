@@ -1,0 +1,93 @@
+h2 {
+  font-family: 'Playfair Display', serif;
+}
+p {
+  font-weight: bold;
+  font-size: 40pt;
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: center;
+}
+h6 {
+  font-family: 'Oswald', sans-serif;
+  color: black;
+  text-decoration: bold;
+  font-size: 12pt;
+  padding: 5pt;
+  line-height: 30px;
+}
+h4 {
+  font-style: 14px;
+  color: black;
+  line-height: 37px;
+}
+body {
+  margin: 15pt;
+  padding: 5pt;
+}
+.byline {
+  text-align: center;
+}
+h5 {
+  color: red;
+  line-height: 14px;
+}
+h2 {
+  font-weight: bold;
+  font-size: 23pt;
+  font-family: 'Cabin', sans-serif;
+  line-height: 30px;
+
+}
+a:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a{
+  text-decoration: none;
+}
+a:visited {
+  color: black;
+
+}
+.more {
+  font-size: 20pt;
+}
+li {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: grey;
+  display: inline;
+}
+.cov {
+  text-align: center;
+  color: red;
+}
+.cover {
+  line-height: 45pt;
+  font-size: 28pt;
+  font-weight: bold;
+  text-align: center;
+}
+.story {
+  text-align: center;
+  font-size: 18pt;
+}
+ul {
+  list-style-type: none;
+  display: inline;
+  font-size: 12px;
+  width: 100;
+  font-weight: bold;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 12pt;
+}
+
+.culture {
+  text-align: center;
+}
+.article {
+  padding-top: 80pt;
+}
+div.nav {
+  text-align: left;
+}
