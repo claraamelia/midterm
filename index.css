@@ -66,6 +66,9 @@ a:hover {
 a:visited {
   color: black;
 }
+a:unvisited {
+  color:black;
+}
 .sections {
   color: red;
 }
